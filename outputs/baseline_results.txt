@@ -1,0 +1,238 @@
+DistilGPT2 loaded successfully!
+
+--- TOKENIZER TEST ---
+beautiful: ['beaut', 'iful'] (2 tokens)
+Computer: ['Computer'] (1 tokens)
+Amphibian: ['Am', 'ph', 'ib', 'ian'] (4 tokens)
+reviewer: ['review', 'er'] (2 tokens)
+oversea: ['over', 'sea'] (2 tokens)
+Hungry: ['Hung', 'ry'] (2 tokens)
+Average English: 2.17 tokens per word
+
+gutom: ['g', 'ut', 'om'] (3 tokens)
+hagdanan: ['h', 'ag', 'dan', 'an'] (4 tokens)
+palitonon: ['pal', 'iton', 'on'] (3 tokens)
+kahilakom: ['k', 'ah', 'il', 'ak', 'om'] (5 tokens)
+teknolohiya: ['te', 'kn', 'ol', 'oh', 'iya'] (5 tokens)
+Gutom: ['G', 'ut', 'om'] (3 tokens)
+Average Cebuano: 3.83 tokens per word
+
+--- TEXT GENERATION ---
+Prompt: lami kaayo ang
+Generated: lami kaayo angi ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko kapu ko
+Prompt: Im going to
+Generated: Im going to be a lot more fun to play with.”
+Prompt: Ganahan ko
+Generated: Ganahan ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapat ko kapDistilGPT2 loaded successfully!
+
+--- TOKENIZER TEST ---
+Terrace: ['T', 'err', 'ace'] (3 tokens)
+Arcade: ['Arcade'] (1 tokens)
+Casino: ['Cas', 'ino'] (2 tokens)
+bombing: ['bomb', 'ing'] (2 tokens)
+oversea: ['over', 'sea'] (2 tokens)
+nervous: ['n', 'erv', 'ous'] (3 tokens)
+Average English: 2.17 tokens per word
+
+gutom: ['g', 'ut', 'om'] (3 tokens)
+malibang: ['mal', 'ib', 'ang'] (3 tokens)
+maglakaw: ['mag', 'l', 'ak', 'aw'] (4 tokens)
+kumpare: ['k', 'ump', 'are'] (3 tokens)
+kan-anan: ['kan', '-', 'anan'] (3 tokens)
+sakit: ['s', 'ak', 'it'] (3 tokens)
+Average Cebuano: 3.17 tokens per word
+
+--- TEXT GENERATION ---
+Prompt: Kumusta ka
+Generated: Kumusta ka kapat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DistilGPT2 loaded successfully!
+
+--- TOKENIZER TEST ---
+Terrace: ['T', 'err', 'ace'] (3 tokens)
+Arcade: ['Arcade'] (1 tokens)
+Casino: ['Cas', 'ino'] (2 tokens)
+bombing: ['bomb', 'ing'] (2 tokens)
+oversea: ['over', 'sea'] (2 tokens)
+nervous: ['n', 'erv', 'ous'] (3 tokens)
+Average English: 2.17 tokens per word
+
+gutom: ['g', 'ut', 'om'] (3 tokens)
+malibang: ['mal', 'ib', 'ang'] (3 tokens)
+maglakaw: ['mag', 'l', 'ak', 'aw'] (4 tokens)
+kumpare: ['k', 'ump', 'are'] (3 tokens)
+kan-anan: ['kan', '-', 'anan'] (3 tokens)
+sakit: ['s', 'ak', 'it'] (3 tokens)
+Average Cebuano: 3.17 tokens per word
+
+--- TEXT GENERATION ---
+Prompt: Kumusta ka
+Generated: Kumusta ka kapat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prompt: Help me I
+Generated: Help me I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am
+
+DistilGPT2 loaded successfully!
+
+--- TOKENIZER TEST ---
+Terrace: ['T', 'err', 'ace'] (3 tokens)
+Arcade: ['Arcade'] (1 tokens)
+Casino: ['Cas', 'ino'] (2 tokens)
+bombing: ['bomb', 'ing'] (2 tokens)
+oversea: ['over', 'sea'] (2 tokens)
+nervous: ['n', 'erv', 'ous'] (3 tokens)
+Average English: 2.17 tokens per word
+
+gutom: ['g', 'ut', 'om'] (3 tokens)
+malibang: ['mal', 'ib', 'ang'] (3 tokens)
+maglakaw: ['mag', 'l', 'ak', 'aw'] (4 tokens)
+kumpare: ['k', 'ump', 'are'] (3 tokens)
+kan-anan: ['kan', '-', 'anan'] (3 tokens)
+sakit: ['s', 'ak', 'it'] (3 tokens)
+Average Cebuano: 3.17 tokens per word
+
+--- TEXT GENERATION ---
+Prompt: Kumusta ka
+Generated: Kumusta ka kapat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prompt: Help me I
+Generated: Help me I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am
+Prompt: Nag unsa
+Generated: Nag unsa-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-t
+

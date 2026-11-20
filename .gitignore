@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Model and training files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Sensitive files
+.env
+
+# IDE files
+.idea/
+
+# Dataset files (avoid uploading large datasets)
+datasets/*.txt
