@@ -1,0 +1,95 @@
+Final training loss: 4.9740
+Eval loss: 4.6273
+Held-out perplexity: 102.24
+
+=== BEFORE LORA (BASE DISTILGPT2) ===
+
+--- TOKENIZER TEST ---
+Terrace: ['T', 'err', 'ace'] (3 tokens)
+Arcade: ['Arcade'] (1 tokens)
+Casino: ['Cas', 'ino'] (2 tokens)
+bombing: ['bomb', 'ing'] (2 tokens)
+oversea: ['over', 'sea'] (2 tokens)
+nervous: ['n', 'erv', 'ous'] (3 tokens)
+Average English: 2.17 tokens per word
+gutom: ['g', 'ut', 'om'] (3 tokens)
+malibang: ['mal', 'ib', 'ang'] (3 tokens)
+maglakaw: ['mag', 'l', 'ak', 'aw'] (4 tokens)
+kumpare: ['k', 'ump', 'are'] (3 tokens)
+kan-anan: ['kan', '-', 'anan'] (3 tokens)
+sakit: ['s', 'ak', 'it'] (3 tokens)
+Average Cebuano: 3.17 tokens per word
+
+--- TEXT GENERATION ---
+[Kumusta ka] -> Kumusta ka kapat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Help me I] -> Help me I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am a little bit confused. I am
+[Nag unsa] -> Nag unsa-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-tit-t
+
+=== AFTER LORA (CEBUANO FINE-TUNED) ===
+
+--- TOKENIZER TEST ---
+Terrace: ['T', 'err', 'ace'] (3 tokens)
+Arcade: ['Arcade'] (1 tokens)
+Casino: ['Cas', 'ino'] (2 tokens)
+bombing: ['bomb', 'ing'] (2 tokens)
+oversea: ['over', 'sea'] (2 tokens)
+nervous: ['n', 'erv', 'ous'] (3 tokens)
+Average English: 2.17 tokens per word
+gutom: ['g', 'ut', 'om'] (3 tokens)
+malibang: ['mal', 'ib', 'ang'] (3 tokens)
+maglakaw: ['mag', 'l', 'ak', 'aw'] (4 tokens)
+kumpare: ['k', 'ump', 'are'] (3 tokens)
+kan-anan: ['kan', '-', 'anan'] (3 tokens)
+sakit: ['s', 'ak', 'it'] (3 tokens)
+Average Cebuano: 3.17 tokens per word
+
+--- TEXT GENERATION ---
+[Kumusta ka] -> Kumusta ka kapatayon sa kapatayon sa kapatayon sa kapatayon sa kapatayon sa kapatayon sa kapatayon sa kapatayon sa kap
+[Help me I] -> Help me Iga kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa kini sa k
+[Nag unsa] -> Nag unsa sa kapatag sa kapatag sa kapatag sa kapatag sa kapatag sa kapatag sa kapatag sa kapatag sa kapatag sa kapatag
