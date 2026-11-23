@@ -1,0 +1,63 @@
+=== STEP 2: DECODING STRATEGIES & KV-CACHE BENCHMARK ===
+
+
+PROMPT: Ang komunidad sa Sugbo nagtinabangay aron
+  [greedy] -> Ang komunidad sa Sugbo nagtinabangay aron sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini
+  [top_k_50_temp_0.8] -> Ang komunidad sa Sugbo nagtinabangay aron ang sa pagpagdumang panglanab. Usa ka mga kosuha ni Luka. Kato ang nipatong ug mga kangil
+  [top_p_0.9_temp_0.8] -> Ang komunidad sa Sugbo nagtinabangay aron ug mga nga mga kini.Si Wabong nga iyang mga kini.Kala ang pagbigit.Nakutag-on nga
+
+PROMPT: Sa panahon sa kusog nga ulan, kinahanglan nga
+  [greedy] -> Sa panahon sa kusog nga ulan, kinahanglan nga kusog nga kusog nga kusog nga kusog nga kusog nga kusog nga kusog nga kusog nga
+  [top_k_50_temp_0.8] -> Sa panahon sa kusog nga ulan, kinahanglan nga pa pa sa bihang kini, nakatik niini sa dang nga dili sa pagpag-apit sa tasod nga nagpakot sa
+  [top_p_0.9_temp_0.8] -> Sa panahon sa kusog nga ulan, kinahanglan nga nagpakulang ang siya ang kunahanglan nga nga usa ka ka kawatul ang usa ka kawatulang.Ang kawat
+
+PROMPT: Language adaptation on small models helps
+  [greedy] -> Language adaptation on small models helps to create a more sustainable environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [top_k_50_temp_0.8] -> Language adaptation on small models helps us to understand the nature and size of the plant and its characteristics. A new study found the species is adapted to the growing medium and variety of plants.
+
+
+
+
+
+
+
+
+
+  [top_p_0.9_temp_0.8] -> Language adaptation on small models helps to improve its ability to produce more products, and to increase its use of small models in the field. But a growing number of research projects have identified novel ways to improve its ability to produce small models
+
+=== KV-CACHE BENCHMARK (use_cache=True vs use_cache=False) ===
+use_cache=True: elapsed=1.130s | throughput=35.41 tok/s | sample=Ang komunidad sa Sugbo nagtinabangay aron sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini
+use_cache=False: elapsed=1.636s | throughput=24.45 tok/s | sample=Ang komunidad sa Sugbo nagtinabangay aron sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini sa pagtong mga kini
